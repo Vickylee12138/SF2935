@@ -8,5 +8,3 @@
     note = {Kaggle}
 }
 
-## Code description
-
